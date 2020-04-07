@@ -1,0 +1,7 @@
+{
+  "name": "covid-19-wars",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
